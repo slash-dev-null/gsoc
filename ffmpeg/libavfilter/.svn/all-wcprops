@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter
+END
+avfiltergraph.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/avfiltergraph.c
+END
+graphparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/graphparser.c
+END
+allfilters.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/allfilters.c
+END
+avfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/avfilter.h
+END
+avfiltergraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/avfiltergraph.h
+END
+graphparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/graphparser.h
+END
+defaults.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/defaults.c
+END
+formats.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/formats.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/Makefile
+END
+avfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavfilter/avfilter.c
+END

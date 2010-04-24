@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests
+END
+videogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/videogen.c
+END
+seek.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/seek.regression.ref
+END
+rotozoom.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/rotozoom.regression.ref
+END
+libav.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/libav.regression.ref
+END
+regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/regression.sh
+END
+server-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/server-regression.sh
+END
+ffmpeg.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/ffmpeg.regression.ref
+END
+seek_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/seek_test.sh
+END
+test.conf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/test.conf
+END
+tiny_psnr.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/tiny_psnr.c
+END
+seek_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/seek_test.c
+END
+lena.pnm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/lena.pnm
+END
+rotozoom.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/rotozoom.c
+END
+ffserver.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/ffserver.regression.ref
+END
+audiogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/tests/audiogen.c
+END

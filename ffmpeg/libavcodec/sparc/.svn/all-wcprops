@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/sparc
+END
+dsputil_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/sparc/dsputil_vis.c
+END
+vis.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/sparc/vis.h
+END
+simple_idct_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/sparc/simple_idct_vis.c
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu
+END
+h264gpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/h264gpu.c
+END
+gpu_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/gpu_utils.h
+END
+gpu_scratch.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/gpu_scratch.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/TODO
+END
+h264gpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/h264gpu.h
+END
+gpu_player.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/gpu_player.c
+END
+gpu_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/gpu_test.c
+END
+gpu_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/gpu_utils.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/ps2
+END
+mpegvideo_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/ps2/mpegvideo_mmi.c
+END
+idct_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/ps2/idct_mmi.c
+END
+dsputil_mmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/ps2/dsputil_mmi.c
+END
+mmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/ps2/mmi.h
+END

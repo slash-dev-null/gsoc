@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libpostproc
+END
+postprocess_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libpostproc/postprocess_template.c
+END
+postprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libpostproc/postprocess.c
+END
+postprocess_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libpostproc/postprocess_internal.h
+END
+postprocess_altivec_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libpostproc/postprocess_altivec_template.c
+END
+postprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libpostproc/postprocess.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libpostproc/Makefile
+END

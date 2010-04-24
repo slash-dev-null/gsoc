@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l
+END
+mpegvideo_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/mpegvideo_arm.c
+END
+float_arm_vfp.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/float_arm_vfp.c
+END
+simple_idct_armv5te.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/simple_idct_armv5te.S
+END
+jrevdct_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/jrevdct_arm.S
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/mathops.h
+END
+dsputil_iwmmxt_rnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/dsputil_iwmmxt_rnd.h
+END
+mpegvideo_armv5te.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/mpegvideo_armv5te.c
+END
+dsputil_arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/dsputil_arm.c
+END
+mpegvideo_iwmmxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/mpegvideo_iwmmxt.c
+END
+dsputil_arm_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/dsputil_arm_s.S
+END
+simple_idct_armv6.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/simple_idct_armv6.S
+END
+dsputil_iwmmxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/dsputil_iwmmxt.c
+END
+simple_idct_arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/armv4l/simple_idct_arm.S
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders
+END
+fullpel.frag
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/fullpel.frag
+END
+fullpel.vert
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/fullpel.vert
+END
+dct4_dc.frag
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/dct4_dc.frag
+END
+3d.frag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/3d.frag
+END
+shader.frag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/shader.frag
+END
+shader.vert
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/shader.vert
+END
+chroma.frag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/chroma.frag
+END
+dct.frag
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/dct.frag
+END
+chroma.vert
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/chroma.vert
+END
+base.frag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/base.frag
+END
+red.frag
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/red.frag
+END
+dct.vert
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/dct.vert
+END
+base.vert
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/base.vert
+END
+offcenter.frag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/offcenter.frag
+END
+offcenter.vert
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/offcenter.vert
+END
+3dpacked.frag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/3dpacked.frag
+END
+qpel1.frag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/qpel1.frag
+END
+qpel1.vert
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/qpel1.vert
+END
+qpel2.frag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/qpel2.frag
+END
+qpel2.vert
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/qpel2.vert
+END
+qpel3.frag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/qpel3.frag
+END
+qpel3.vert
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/qpel3.vert
+END
+halfpel1.frag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/halfpel1.frag
+END
+halfpel2.frag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/halfpel2.frag
+END
+halfpel1.vert
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/halfpel1.vert
+END
+dct4.frag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/dct4.frag
+END
+halfpel2.vert
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/14101/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/halfpel2.vert
+END
+green.frag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/13976/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/gpu/shaders/green.frag
+END

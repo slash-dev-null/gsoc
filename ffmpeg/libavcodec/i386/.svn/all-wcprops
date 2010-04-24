@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386
+END
+idct_mmx_xvid.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/idct_mmx_xvid.c
+END
+motion_est_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/motion_est_mmx.c
+END
+fdct_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/fdct_mmx.c
+END
+dsputil_h264_template_ssse3.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/dsputil_h264_template_ssse3.c
+END
+dsputil_h264_template_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/dsputil_h264_template_mmx.c
+END
+cpuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/cpuid.c
+END
+fft_3dn2.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/fft_3dn2.c
+END
+mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/mmx.h
+END
+idct_sse2_xvid.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/idct_sse2_xvid.c
+END
+vp3dsp_sse2.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/vp3dsp_sse2.c
+END
+simple_idct_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/simple_idct_mmx.c
+END
+snowdsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/snowdsp_mmx.c
+END
+vp3dsp_sse2.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/vp3dsp_sse2.h
+END
+vc1dsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/vc1dsp_mmx.c
+END
+fft_3dn.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/fft_3dn.c
+END
+cavsdsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/cavsdsp_mmx.c
+END
+mpegvideo_mmx_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/mpegvideo_mmx_template.c
+END
+flacdsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/flacdsp_mmx.c
+END
+vp3dsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/vp3dsp_mmx.c
+END
+mpegvideo_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/mpegvideo_mmx.c
+END
+h264_i386.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/h264_i386.h
+END
+idct_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/idct_mmx.c
+END
+vp3dsp_mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/vp3dsp_mmx.h
+END
+dsputil_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/dsputil_mmx.c
+END
+dsputil_mmx_avg.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/dsputil_mmx_avg.h
+END
+dsputil_mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/dsputil_mmx.h
+END
+h264dsp_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/h264dsp_mmx.c
+END
+dsputil_mmx_rnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/dsputil_mmx_rnd.h
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/mathops.h
+END
+idct_xvid.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/idct_xvid.h
+END
+fft_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/fft_sse.c
+END
+dsputil_mmx_qns.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/dsputil_mmx_qns.h
+END
+dsputilenc_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/xbmc/!svn/ver/13975/branches/gsoc-2008-rudd/sources/dvdplayer/ffmpeg/libavcodec/i386/dsputilenc_mmx.c
+END
