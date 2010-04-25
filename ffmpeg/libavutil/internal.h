@@ -248,9 +248,8 @@ if((y)<(x)){\
 #undef  exit
 #define exit exit_is_forbidden
 #if !(defined(LIBAVFORMAT_BUILD) || defined(FFMPEG_FRAMEHOOK_H))
-//KASPAR allow printf
-//#undef  printf
-//#define printf please_use_av_log
+#undef  printf
+#define printf please_use_av_log
 #undef  fprintf
 #define fprintf please_use_av_log
 #undef  puts
