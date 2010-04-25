@@ -5,10 +5,6 @@
 static textureParameters tp_3d, tp_2d;
 #include <inttypes.h>
 
-#ifndef RUDD_BUILD
-#define RUDD_BUILD
-#endif /*RUDD_BUILD to enable printf*/
-
 H264Context *g_h;
 static void render_mbs();
 static void render_one_block(int x, int y, int mv_x, int mv_y, int x_pix, int y_pix,

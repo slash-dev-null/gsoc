@@ -247,9 +247,10 @@ if((y)<(x)){\
 #define strcat strcat_is_forbidden_due_to_security_issues_use_av_strlcat
 #undef  exit
 #define exit exit_is_forbidden
-#if !(defined(RUDD_BUILD) || defined(LIBAVFORMAT_BUILD) || defined(FFMPEG_FRAMEHOOK_H))
-#undef  printf
-#define printf please_use_av_log
+#if !(defined(LIBAVFORMAT_BUILD) || defined(FFMPEG_FRAMEHOOK_H))
+//KASPAR allow printf
+//#undef  printf
+//#define printf please_use_av_log
 #undef  fprintf
 #define fprintf please_use_av_log
 #undef  puts

@@ -80,7 +80,8 @@ enum OutputFormat {
  */
 typedef struct Picture{
     FF_COMMON_FRAME
-
+      //KASPAR hack to get RUDD's code to compile
+      int gpu_dpb;
     /**
      * halfpel luma planes.
      */

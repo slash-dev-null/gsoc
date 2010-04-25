@@ -12,7 +12,7 @@ CFLAGS := -g3 -O0
 LIBS :=  -lz -lm -ldl -ldl -L/usr/lib -lSDL -lGL -lGLEW -lglut \
 	-lavformat -lavcodec -lavdevice -lavutil  -lbz2
 #FILE :=../saikano-ova-h264-blocking-01.mkv  
-FILE := ../Ganges.E01.1080p.L4.1.mkv
+FILE := ../../Ganges.E01.1080p.L4.1.mkv
 
 default: compile run
 
