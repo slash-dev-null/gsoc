@@ -268,8 +268,16 @@ void checkGLErrors (const char *label) {
 	printf((char*)errStr);
 	printf("(Label: ");
 	printf(label);
-	printf(")\n.");
+	printf(")\n");
     }
+    else {
+      printf("[ OK ]");
+      printf((char*)errStr);
+      printf("(Label: ");
+      printf(label);
+      printf(")\n");
+    }
+      
 }
 
 
