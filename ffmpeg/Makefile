@@ -162,9 +162,10 @@ clean::
 	rm -f $(addprefix tests/,$(addsuffix $(EXESUF),audiogen videogen rotozoom seek_test tiny_psnr))
 	rm -f $(addprefix tools/,$(addsuffix $(EXESUF),cws2fws pktdumper qt-faststart trasher))
 	rm -f vhook/*.o vhook/*~ vhook/*.so vhook/*.dylib vhook/*.dll
+	rm -f gpu/*.o
 
 distclean::
-	rm -f version.h config.* *.pc vhook/*.d
+	rm -f version.h config.* *.pc vhook/*.d gpu/*.d
 
 # regression tests
 
