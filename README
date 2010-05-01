@@ -7,6 +7,10 @@ Build using:
 ./configure --extra-libs="-lGLEW -lglut" --disable-ffmpeg --disable-ffplay --disable-ffserver
 cd gpu/
 make
+
+You can then run ./gpu_player using one of the mkv test files e.g.
+
+./gpu_player ../../Ganges.E01.1080p.L4.1.mkv
  
 
 See http://forum.xbmc.org/showpost.php?p=510501 for more info or contact me: kaspar.bumke *** gmail.com
