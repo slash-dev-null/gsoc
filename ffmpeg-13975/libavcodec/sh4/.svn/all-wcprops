@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/sh4
+END
+dsputil_align.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/sh4/dsputil_align.c
+END
+idct_sh4.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/sh4/idct_sh4.c
+END
+qpel.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/sh4/qpel.c
+END
+dsputil_sh4.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/sh4/dsputil_sh4.c
+END

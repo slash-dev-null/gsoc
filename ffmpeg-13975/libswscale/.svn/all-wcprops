@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale
+END
+yuv2rgb_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/yuv2rgb_bfin.c
+END
+swscale_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/swscale_bfin.c
+END
+yuv2rgb.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/yuv2rgb.c
+END
+swscale.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/swscale.c
+END
+swscale_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/swscale_internal.h
+END
+swscale_altivec_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/swscale_altivec_template.c
+END
+yuv2rgb_mlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/yuv2rgb_mlib.c
+END
+cs_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/cs_test.c
+END
+swscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/swscale.h
+END
+yuv2rgb_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/yuv2rgb_altivec.c
+END
+yuv2rgb_vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/yuv2rgb_vis.c
+END
+rgb2rgb_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/rgb2rgb_template.c
+END
+rgb2rgb.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/rgb2rgb.c
+END
+swscale-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/swscale-example.c
+END
+internal_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/internal_bfin.S
+END
+yuv2rgb_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/yuv2rgb_template.c
+END
+swscale_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/swscale_template.c
+END
+rgb2rgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/rgb2rgb.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libswscale/Makefile
+END

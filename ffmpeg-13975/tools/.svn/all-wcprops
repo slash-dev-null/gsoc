@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tools
+END
+cws2fws.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tools/cws2fws.c
+END
+unwrap-diff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tools/unwrap-diff
+END
+build_avopt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tools/build_avopt
+END
+clean-diff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tools/clean-diff
+END
+trasher.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tools/trasher.c
+END
+pktdumper.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tools/pktdumper.c
+END
+qt-faststart.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tools/qt-faststart.c
+END

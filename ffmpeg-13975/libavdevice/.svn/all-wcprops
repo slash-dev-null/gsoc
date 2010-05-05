@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice
+END
+libdc1394.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/libdc1394.c
+END
+dv1394.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/dv1394.h
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/audio.c
+END
+bktr.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/bktr.c
+END
+v4l.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/v4l.c
+END
+x11grab.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/x11grab.c
+END
+vfwcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/vfwcap.c
+END
+v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/v4l2.c
+END
+beosaudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/beosaudio.cpp
+END
+dv1394.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/dv1394.c
+END
+alldevices.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/alldevices.c
+END
+avdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/avdevice.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavdevice/Makefile
+END

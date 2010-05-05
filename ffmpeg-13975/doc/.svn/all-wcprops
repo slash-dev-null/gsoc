@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/doc
+END
+ffmpeg-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/doc/ffmpeg-doc.texi
+END
+faq.texi
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/doc/faq.texi
+END
+issue_tracker.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/issue_tracker.txt
+END
+avutil.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/avutil.txt
+END
+general.texi
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/doc/general.texi
+END
+hooks.texi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/hooks.texi
+END
+ffplay-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/doc/ffplay-doc.texi
+END
+ffserver-doc.texi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/doc/ffserver-doc.texi
+END
+soc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/soc.txt
+END
+snow.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/snow.txt
+END
+optimization.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/optimization.txt
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/TODO
+END
+ffserver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/ffserver.conf
+END
+texi2pod.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/texi2pod.pl
+END
+ffmpeg_powerpc_performance_evaluation_howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/doc/ffmpeg_powerpc_performance_evaluation_howto.txt
+END

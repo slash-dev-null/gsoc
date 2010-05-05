@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/xbmc/!svn/ver/13458/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil
+END
+mathematics.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/mathematics.c
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/adler32.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/sha1.h
+END
+x86_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/x86_cpu.h
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/integer.h
+END
+avstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/avstring.h
+END
+mathematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/mathematics.h
+END
+crc_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/crc_data.h
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/string.c
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/crc.c
+END
+avutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/avutil.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/crc.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/md5.c
+END
+intfloat_readwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/intfloat_readwrite.c
+END
+lls.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/lls.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/md5.h
+END
+intfloat_readwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/intfloat_readwrite.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/Makefile
+END
+lls.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/lls.h
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/tree.c
+END
+softfloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/softfloat.c
+END
+lzo.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/lzo.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/tree.h
+END
+intreadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/intreadwrite.h
+END
+softfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/softfloat.h
+END
+aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/aes.c
+END
+lzo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/lzo.h
+END
+rational.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/rational.c
+END
+des.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/des.c
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/aes.h
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/mem.c
+END
+rational.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/rational.h
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/des.h
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/random.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/log.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/internal.h
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/bswap.h
+END
+fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/fifo.c
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13458/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/mem.h
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/base64.c
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/random.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/log.h
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/fifo.h
+END
+rc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/rc4.c
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/base64.h
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/adler32.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/sha1.c
+END
+integer.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/integer.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/common.h
+END
+rc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavutil/rc4.h
+END

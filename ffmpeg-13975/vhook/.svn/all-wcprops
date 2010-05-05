@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/vhook
+END
+imlib2.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/vhook/imlib2.c
+END
+drawtext.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/vhook/drawtext.c
+END
+fish.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/vhook/fish.c
+END
+null.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/vhook/null.c
+END
+ppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/vhook/ppm.c
+END
+watermark.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/vhook/watermark.c
+END

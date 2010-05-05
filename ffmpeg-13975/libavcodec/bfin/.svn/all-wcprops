@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin
+END
+fdct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/fdct_bfin.S
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/mathops.h
+END
+idct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/idct_bfin.S
+END
+dsputil_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/dsputil_bfin.c
+END
+pixels_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/pixels_bfin.S
+END
+vp3_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/vp3_bfin.c
+END
+dsputil_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/dsputil_bfin.h
+END
+config_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/config_bfin.h
+END
+vp3_idct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/vp3_idct_bfin.S
+END
+mpegvideo_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/bfin/mpegvideo_bfin.c
+END

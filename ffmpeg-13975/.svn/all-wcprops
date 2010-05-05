@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/xbmc/!svn/ver/13923/branches/linuxport/sources/dvdplayer/ffmpeg
+END
+build_xbmc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/xbmc/!svn/ver/13451/branches/linuxport/sources/dvdplayer/ffmpeg/build_xbmc.sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/configure
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/Doxyfile
+END
+ffmpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/ffmpeg.c
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/Changelog
+END
+COPYING.GPL
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/COPYING.GPL
+END
+output_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/output_example.c
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/README
+END
+version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/version.sh
+END
+subdir.mak
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/subdir.mak
+END
+common.mak
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/common.mak
+END
+ffplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/ffplay.c
+END
+build_win32_xbmc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13923/branches/linuxport/sources/dvdplayer/ffmpeg/build_win32_xbmc.sh
+END
+ffserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/ffserver.c
+END
+COPYING.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/COPYING.LGPL
+END
+cmdutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/cmdutils.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/INSTALL
+END
+ffserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/ffserver.h
+END
+cmdutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/cmdutils.h
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/MAINTAINERS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/Makefile
+END

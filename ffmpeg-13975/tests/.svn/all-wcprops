@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/tests
+END
+videogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/videogen.c
+END
+seek.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/tests/seek.regression.ref
+END
+rotozoom.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/rotozoom.regression.ref
+END
+libav.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/tests/libav.regression.ref
+END
+regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/regression.sh
+END
+server-regression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/tests/server-regression.sh
+END
+ffmpeg.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/ffmpeg.regression.ref
+END
+seek_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/seek_test.sh
+END
+test.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/test.conf
+END
+tiny_psnr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/tiny_psnr.c
+END
+seek_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/seek_test.c
+END
+lena.pnm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/lena.pnm
+END
+rotozoom.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/rotozoom.c
+END
+ffserver.regression.ref
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/xbmc/!svn/ver/13455/branches/linuxport/sources/dvdplayer/ffmpeg/tests/ffserver.regression.ref
+END
+audiogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/tests/audiogen.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha
+END
+regdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha/regdef.h
+END
+simple_idct_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha/simple_idct_alpha.c
+END
+mpegvideo_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha/mpegvideo_alpha.c
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha/asm.h
+END
+motion_est_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha/motion_est_alpha.c
+END
+dsputil_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha/dsputil_alpha.c
+END
+dsputil_alpha_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha/dsputil_alpha_asm.S
+END
+motion_est_mvi_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/xbmc/!svn/ver/13449/branches/linuxport/sources/dvdplayer/ffmpeg/libavcodec/alpha/motion_est_mvi_asm.S
+END
