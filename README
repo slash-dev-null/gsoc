@@ -13,6 +13,6 @@ You can then run gpu_player using one of the mkv test files e.g.
 
 ./gpu_player ../../Ganges.E01.1080p.L4.1.mkv
 
-ffmpeg-13975 is a version of ffmpeg back when Rudd started out. This is where I am doing my own work at the moment (in the work branch).
+ffmpeg-13975 is a version of ffmpeg back when Rudd started out(XBMC svn @r13975). This is where I am doing my own work at the moment (in the branch called "work").
 
 See http://forum.xbmc.org/showpost.php?p=510501 for more info or contact me: kaspar.bumke *** gmail.com
