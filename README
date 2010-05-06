@@ -15,4 +15,4 @@ You can then run gpu_player using one of the mkv test files e.g.
 
 ffmpeg-orig is a version of ffmpeg back when Rudd started out(XBMC svn @r13975). This is where I am doing my own work at the moment (in the branch called "work").
 
-See http://forum.xbmc.org/showpost.php?p=510501 for more info or contact me: kaspar.bumke *** gmail.com
+See http://forum.xbmc.org/showpost.php?p=510501 for more info and my personal site:http://kaspar.webhop.net/gpu_video.html  or contact me: kaspar.bumke *** gmail.com
