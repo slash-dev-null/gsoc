@@ -4,13 +4,15 @@ This is an attempt to complete Robert Rudd's GSOC project of 2008 with XBMC.
 
 Build using:
 
+cd ffmpeg
 ./configure --extra-libs="-lGLEW -lglut" --disable-ffmpeg --disable-ffplay --disable-ffserver
 cd gpu/
 make
 
-You can then run ./gpu_player using one of the mkv test files e.g.
+You can then run gpu_player using one of the mkv test files e.g.
 
 ./gpu_player ../../Ganges.E01.1080p.L4.1.mkv
- 
+
+ffmpeg-13975 is a version of ffmpeg back when Rudd started out. This is where I am doing my own work at the moment (in the work branch).
 
 See http://forum.xbmc.org/showpost.php?p=510501 for more info or contact me: kaspar.bumke *** gmail.com
