@@ -141,7 +141,7 @@ int main(int argc, char *argv[])
       // Decode video frame
       avcodec_decode_video(pCodecCtx, pFrame, &frameFinished, 
          packet.data, packet.size);
-#if 0 
+#if 1 
       // Did we get a video frame?
       if(frameFinished) {
   // Convert the image from its native format to RGB
